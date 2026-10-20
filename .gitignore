@@ -1,0 +1,10 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# BMAD development artifacts
+_bmad/
+_bmad-output/
+
+# Claude Code local config (not the plugin directory)
+.claude/
